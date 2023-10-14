@@ -1,0 +1,22 @@
+.animal{
+  display: flex;
+ justify-content: center;
+ align-items: center;
+  
+}
+
+.animal-name{
+  background: grey;
+ 
+
+}
+
+.isMammal{
+  color:green;
+  margin-left: 10px;
+}
+
+.is-not-Mammal{
+  margin-left: 10px;
+  color: red;
+}
