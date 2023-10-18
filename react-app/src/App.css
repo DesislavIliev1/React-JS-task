@@ -1,3 +1,7 @@
+*{
+  background: #c1c7c7;
+}
+
 .animal{
   display: flex;
  justify-content: center;
@@ -6,7 +10,9 @@
 }
 
 .animal-name{
-  background: grey;
+  background: rgb(140, 140, 212);
+  border-radius: 30%;
+  padding: 5px;
  
 
 }
